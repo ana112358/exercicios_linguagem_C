@@ -20,5 +20,5 @@ void main(){
     
     // Calculando a média das duas notas
     media = (nota_2 +nota_1) / 2;
-    printf("A média é : %f\n", media);
+    printf("A média é : %.2f\n", media);
 }
