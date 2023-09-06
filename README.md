@@ -26,4 +26,8 @@
 - Normalmente, um linker (ligador) é usado para combinar vários arquivos objeto em um único executável.
 ![image](https://github.com/ana112358/exercicios_linguagem_C/assets/130050929/dc68cbe1-6eba-4182-93d7-31b0ba598ecc)
 
+#### Aspectos Importantes
+- Como é trabalhoso escrever um código em Assembly ou em binário, pois é uma linguagem de nível muito baixo, geralmente utilizamos uma linguagem de mais alto nível como C ou C# e depois compilamos e geramos um executável.
+- O código binário varia de um sistema para outro, por exempo, códigos binários feitos para windows não funcionam para Linux, pois ele não o reconhece como sendo um executável.
+
   
