@@ -1,4 +1,4 @@
-# Linguagem C - Resumo
+# Linguagem C - minhas dúvidas ao longo do curso
 
 ### O que é um compilador?
 
