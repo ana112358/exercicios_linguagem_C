@@ -26,6 +26,24 @@ int main()
         }
           printf("\n");
     }
+    
+    // Cauculando a matriz transversa de k
+
+    int matriz_transversa[2][2];
+    printf("Matriz Transversa de K: \n");
+    for(int a=0;a<2;++a){
+        for(int b=0; b<2;++b){
+            //Note que apenas inverti os Indices
+            //o que era linha virou Coluna e o 
+            //que era coluna virou linha
+            matriz_transversa[a][b]=matriz[b][a];
+             printf("%d  ",matriz_transversa[a][b]);
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
 
     return 0;
 }
